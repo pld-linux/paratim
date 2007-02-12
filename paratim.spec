@@ -1,5 +1,5 @@
 Summary:	Remake of the old DOS game Paratrooper
-Summary(pl.UTF-8):   Remake starej dosowej gry Paratrooper
+Summary(pl.UTF-8):	Remake starej dosowej gry Paratrooper
 Name:		paratim
 Version:	0.1.2
 Release:	1
