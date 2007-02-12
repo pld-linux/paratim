@@ -1,5 +1,5 @@
 Summary:	Remake of the old DOS game Paratrooper
-Summary(pl):	Remake starej dosowej gry Paratrooper
+Summary(pl.UTF-8):   Remake starej dosowej gry Paratrooper
 Name:		paratim
 Version:	0.1.2
 Release:	1
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Paratim (Paratrooper Improved) is a remake of the old DOS game
 Paratrooper.
 
-%description -l pl
+%description -l pl.UTF-8
 Paratim (Paratrooper Improved) jest remakiem starej dosowej gry
 Paratrooper.
 
