@@ -1,12 +1,12 @@
 Summary:	Remake of the old DOS game Paratrooper
 Summary(pl.UTF-8):	Remake starej dosowej gry Paratrooper
 Name:		paratim
-Version:	0.2.0
+Version:	0.2.0.1
 Release:	1
 License:	GPL v2+
 Group:		X11/Applications/Games
-Source0:	http://dl.sourceforge.net/paratim/%{name}-%{version}.tar.bz2
-# Source0-md5:	da18ba7f22efd6b67cecb2ebe106ce66
+Source0:	http://downloads.sourceforge.net/paratim/%{name}-%{version}.tar.bz2
+# Source0-md5:	0ab215de57f29fc6e401e1fccea85902
 URL:		http://paratim.sourceforge.net/
 BuildRequires:	SDL-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
