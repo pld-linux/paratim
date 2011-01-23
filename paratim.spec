@@ -9,6 +9,7 @@ Source0:	http://downloads.sourceforge.net/paratim/%{name}-%{version}.tar.bz2
 # Source0-md5:	0ab215de57f29fc6e401e1fccea85902
 URL:		http://paratim.sourceforge.net/
 BuildRequires:	SDL-devel
+BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
